@@ -1,2 +1,2 @@
-# Proyecto-Gesti-n-Ficheros
+# Proyecto Gestión Ficheros
 Pepe Gascó Bule 2ºDAM
